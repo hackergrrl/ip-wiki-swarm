@@ -1,6 +1,6 @@
 {
   "name": "ip-wiki-swarm",
-  "description": "Connect to an IPFS-Wiki swarm and publish article edits.",
+  "description": "Connect to an IPFS-Wiki swarm to sync the edit log & publish article edits.",
   "version": "0.0.0",
   "repository": {
     "url": "git://github.com/noffle/ip-wiki-swarm.git"
